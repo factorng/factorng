@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi, I'm Aleksey Efimov 👋
+Software Engineer with more than 2 years of non commertial experience. I have  knowledge in frontend development on JavaScript.
+In general worked with: JavaScript, React, TypeScript, Next JS. I have basic knowldge in backend: Node.js, Express, Mongo DB
 
-<!--
-**factorng/factorng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align = 'center'>
+<a href="https://github.com/factorng/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=factorng" /></a>
+ </p>
 
-Here are some ideas to get you started:
+<p align='center'>
+   <a href="https://t.me/ivanDrag00" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+ <p align='center'>
+  📫  Email: <a href='mailto:79111838488@yandex.ru'>79111838488@yandex.ru</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key points
+*   Got frontend developer education in Yandex.Practicum
+*   Epam laboratory graduate
+
+## 🛠 Technical Stack
+*   JavaScript and basic C/C++
+*   React, TypeScript, Next, Redux, Sass, HTML, CSS
+
+### My pet projects
+
+*   [Socket.io chat backend](https://github.com/factorng/socket-io-chat_backend) and [frontend](https://github.com/factorng/socket-io-chat) 
+*   [Table with search form](https://github.com/factorng/table-with-search-and-pagination) 
+*   [Movies Searcher](https://github.com/factorng/movies-searcher) - unfortunatelly now from Russia working only with vpn
+*   [Typing trainer](https://github.com/factorng/typing-trainer)
+
