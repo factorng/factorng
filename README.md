@@ -26,6 +26,6 @@ In general worked with: JavaScript, React, TypeScript, Next JS. I have basic kno
 
 *   [Socket.io chat backend](https://github.com/factorng/socket-io-chat_backend) and [frontend](https://github.com/factorng/socket-io-chat) 
 *   [Table with search form](https://github.com/factorng/table-with-search-and-pagination) 
-*   [Movies Searcher](https://github.com/factorng/movies-searcher) - unfortunatelly now from Russia working only with vpn
+*   [Movies Searcher](https://github.com/factorng/movies-searcher)
 *   [Typing trainer](https://github.com/factorng/typing-trainer)
 
