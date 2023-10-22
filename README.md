@@ -25,7 +25,7 @@ In general worked with: JavaScript, React, TypeScript, Next JS. I have basic kno
 ### My pet projects
 
 *   [Socket.io chat backend](https://github.com/factorng/socket-io-chat_backend) and [frontend](https://github.com/factorng/socket-io-chat) 
-*   [Table with search form](https://github.com/factorng/table-with-search-and-pagination) 
+*   [Progress web application - Weather App](https://github.com/factorng/pwa-weather) 
 *   [Movies Searcher](https://github.com/factorng/movies-searcher)
 *   [Typing trainer](https://github.com/factorng/typing-trainer)
 
