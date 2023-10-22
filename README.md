@@ -20,7 +20,7 @@ In general worked with: JavaScript, React, TypeScript, Next JS. I have basic kno
 
 ## 🛠 Technical Stack
 *   JavaScript and basic C/C++
-*   React, TypeScript, Next, Redux, Sass, HTML, CSS
+*   React, TypeScript, Next, Jest, Redux, Sass, HTML, CSS
 
 ### My pet projects
 
